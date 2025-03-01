@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_Verify Task Creation with Manual Entry</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6197e31a-cf6a-4396-87d2-1ac1ab8229de</testCaseGuid>
+</TestCaseEntity>
